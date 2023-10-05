@@ -23,7 +23,6 @@ Here are some fundamental Git terms that will help you understand and use Git mo
 1. **Fork:** Forking is the act of creating a personal copy of someone else's repository on a Git hosting platform. It allows you to make changes to the forked repository independently.
 1. **Remote:** A remote is a version of the repository stored on a server or hosting service like GitHub. It's used for collaboration and sharing changes with others.
 1. **Origin:** In Git, "origin" is a default name for the remote repository from which you cloned your local copy. It's commonly used as the alias for the primary remote repository.
-1. **Pull (Fetch and Merge):** This is a combination of two Git operations: fetching changes from a remote repository (without automatically merging them) and then merging those changes into your current branch.
 1. **Conflict:** A conflict occurs when Git cannot automatically merge changes from different branches or commits. You must resolve these conflicts manually.
 
 ## GitHub Desktop
