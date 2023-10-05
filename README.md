@@ -32,7 +32,7 @@ GitHub Desktop is a user-friendly graphical interface for Git.
 
 1. **Install GitHub Desktop:** If you haven't already, download and install GitHub Desktop from the [GitHub Desktop website](https://desktop.github.com/).
 1. **Launch GitHub Desktop:** Open the GitHub Desktop application on your computer.
-1. **Sign in to GitHub:** If you have a GitHub account, sign in. If not, you can use GitHub Desktop without signing in, but signing in enables additional features needed further down the line. So, vist [GitHub's website](https://github.com/signup) to sign up to GitHub.
+1. **Sign in to GitHub:** If you have a GitHub account, sign in. If not, you can use GitHub Desktop without signing in, but signing in enables additional features you will need later. So, visit [GitHub's website](https://github.com/signup) to sign up.
 
 ## Cloning a repository
 
